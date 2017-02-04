@@ -31,7 +31,7 @@ sass:
   style:            compressed
 
 # Google Analytics
-#google-analytics: UA-XXXXX-Y
+google-analytics: UA-83176608-1
 
 # Social Links
 email:             guillaume.haben@telecomnancy.net

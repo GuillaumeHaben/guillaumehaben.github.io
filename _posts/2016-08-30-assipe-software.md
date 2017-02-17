@@ -29,3 +29,14 @@ As I said it before, Assipe is a startup founded in 2014 by Léo Thomas. It offe
 So I had to build a whole new platform with a bunch of new features. The main difference was the emergence of distributors who could offers to company security equipments and trainings. In summary, companies needs are sold to distributors. With this new business model, Assipe can offer its service for free to companies in exchange of selling their datas to distributors and has now more client because companies can spend less time and less money on this Unique Document.
 
 From a personal point of view, I was glad to be part of a project linking two young companies. I was happy to discover the startup world and it helps me to find out what I really enjoy at work : taking care of projects that I cherish a lot.
+
+## Screens
+
+<figure class="third">
+    <a href="/images/assipe-software/duerp.png"><img src="/images/assipe-software/duerp.png"></a>
+    <a href="/images/assipe-software/modal.png"><img src="/images/assipe-software/modal.png"></a>
+    <a href="/images/assipe-software/penibilite.png"><img src="/images/assipe-software/penibilite.png"></a>
+</figure>
+<figure>
+    <a href="/images/assipe-software/suivi.png"><img src="/images/assipe-software/suivi.png"></a>
+</figure>

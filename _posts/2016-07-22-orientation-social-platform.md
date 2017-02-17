@@ -42,3 +42,15 @@ During the summer before the beginning of my second year, my treasurer Kilian wh
 A role was given to all parts of the application, and a great majority of the new features we've decided to add were added with a specific thought. Thereby, the Facebook link button added to user's profiles was here to help people to connect each other, the rank page encouraged freshmen to participate to all of our activities in order to get noticed by a good godfather, the limitation of 3 points given per day helped to create some sort of addiction to the application, even the challenges were precisely thought. One of them was to upload 200 photos of the events of the beginning of the year into the application to unlock a teaser for a special event. This challenge was set up to be sure that the gallery was going to be used and it work very well. A special files counter was even made to dynamically display the number of pictures uploaded. 5 challenges were made to encourage everyone to participate in school life with rewards in counterpart.
 
 It was a first release but everyone was using it. During classes, at lunch, after school, all freshmen were talking about it. We were really proud of what we've done here. Even late at night, while we were spying on the data, we could find 10 people still online. This movement last 3 months, until the end of the orientation and it will certainly be one of the most happy memory I'll have of my studies at TELECOM Nancy.
+
+## Screens
+
+<figure class="half">
+    <a href="/images/orientation-social-platform/admin.png"><img src="/images/orientation-social-platform/admin.png"></a>
+    <a href="/images/orientation-social-platform/actu.png"><img src="/images/orientation-social-platform/actu.png"></a>
+</figure>
+<figure class="third">
+    <a href="/images/orientation-social-platform/classement.png"><img src="/images/orientation-social-platform/classement.png"></a>
+    <a href="/images/orientation-social-platform/defis.png"><img src="/images/orientation-social-platform/defis.png"></a>
+    <a href="/images/orientation-social-platform/info.png"><img src="/images/orientation-social-platform/info.png"></a>
+</figure>

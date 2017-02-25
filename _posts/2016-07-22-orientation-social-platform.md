@@ -2,7 +2,7 @@
 layout: post
 title: "Orientation website"
 excerpt: "An article about my experience as leader of the TELECOM Nancy's orientation team and the social platform we build for the occasion."
-image : images/orientation-social-platform.jpg
+image : images/orientation-social-platform/orientation-social-platform.jpg
 tags:
   - orientation
   - front-end

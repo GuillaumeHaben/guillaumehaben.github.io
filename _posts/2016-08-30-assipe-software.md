@@ -3,7 +3,7 @@ layout: post
 title:  "Assipe Software"
 date:   2016-08-30
 excerpt: "The story of my 2nd year internship in a startup where I had to build an Saas platform from scratch."
-image: https://assipe.fr/wp-content/uploads/2016/06/hand-869322_1920.jpg
+image: images/assipe-software/assipe-software.jpg
 tag:
 - internship
 - scrum

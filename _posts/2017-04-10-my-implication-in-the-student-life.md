@@ -29,7 +29,7 @@ So thanks to that, we currently have 5 main associations run by students at TELE
 * BDS : The sport association
 * [Alise](https://www.alise.fr/) : The alumni association
 
-Almost every student takes part in the student life of the school. In fact, we have to because it's a requirement or our graduation.
+Almost every student takes part in the student life of the school. In fact, we have to because it's a requirement to be graduated.
 
 ## The composition of our student union
 The main association of TELECOM Nancy is the CETEN. In 2016, 315 students out of 400 adhered to it wich is more than 75%. A wide range of club exists (25 to be exact). Everyone can decide to join one or several clubs, take part to their activities and find his happiness. To be created, a club need at least 3 people to manage it: a president, a treasurer and a secretary. The orientation team is at the head of the integration club. There is a club in charge of our Prom' night, the cafeteria, organizing trips, organizing events throughout the year and so on. 

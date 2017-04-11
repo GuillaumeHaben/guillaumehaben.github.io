@@ -106,7 +106,7 @@ canvas {
 .posts-menu-icon {
   position: absolute;
   top: 30px;
-  right: 90px;
+  right: 30px; /* 90px */
   width: 20px;
   height: 25px;
   border: 2px solid $gray;
@@ -149,7 +149,7 @@ canvas {
 }
 
 .posts-link {
-  right: 90px;
+  right: 30px; /* 90px */
 }
 
 .projects-link {
@@ -463,7 +463,7 @@ canvas {
 }
 
 .section-title {
-  font-size: 100px;
+  font-size: 5em;
   position: absolute;
   bottom: 50px;
   left: 50px;
@@ -522,6 +522,7 @@ canvas {
     display: inline-block;
     background: darken($white, 5%);
     padding: 7px 10px;
+    margin-bottom: 5px;
     color: lighten($black, 28%);
     font-size: 11px;
     text-transform: uppercase;
@@ -594,14 +595,13 @@ canvas {
     position: relative;
     left: auto;
     bottom: auto;
-    font-size: 80px;
+    font-size: 40px;
   }
   .tags > li {
     background: none;
     border: 1px solid rgba($white, 0.4);
     color: $white;
     font-size: 15px;
-    margin-top: 5px;
   }
   .section-line {
     color: $white;
@@ -706,7 +706,7 @@ canvas {
 // Media queries
 @media screen and (max-height: 605px) {
   .post-title-section .section-title {
-    font-size: 45px;
+    font-size: 40px;
   }
 }
 

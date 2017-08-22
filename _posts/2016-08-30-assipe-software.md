@@ -2,7 +2,7 @@
 layout: post
 title:  "Assipe Software"
 date:   2016-08-30
-excerpt: "The story of my 2nd year internship in a startup where I had to build an Saas platform from scratch."
+excerpt: "The story of my 2nd year internship in a startup where I had to build an entire Saas platform from scratch."
 image: images/assipe-software/assipe-software.jpg
 tag:
 - internship

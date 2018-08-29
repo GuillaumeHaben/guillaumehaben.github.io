@@ -3,10 +3,10 @@ layout: home
 ---
 # About me
 
-Hi, my name is Guillaume. I'm 23 years old and I'm currently in my final year of an engineering degree in IT and digital sciences at [TELECOM Nancy](http://telecomnancy.univ-lorraine.fr/).
+Hi, my name is Guillaume. I'm a 24 years old french software engineer.
 {: style="text-align: justify;"}
 
-I have the wonderful opportunity to live the Amercian dream by working for the [National Institute of Standards and Technology](https://www.nist.gov/) in the Software and Systems division.
+Since 2017, I have the wonderful opportunity to live the Amercian dream by working for the [National Institute of Standards and Technology](https://www.nist.gov/) in the Software Quality Group.
 {: style="text-align: justify;"}
 I love creating app from scratch, minimalist design and working late at night. 
 {: style="text-align: justify;"}

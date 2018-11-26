@@ -3,7 +3,7 @@ layout: home
 ---
 # About me
 
-Hi, my name is Guillaume. I'm a 24-year-old French software engineer.
+Hi, my name is Guillaume. I'm a 25-year-old French software engineer.
 You can download my last resume <a href="https://guillaumehaben.github.io/docs/guillaumehaben-resume-september-2018.pdf" target="_blank">here</a>.
 {: style="text-align: justify;"}
 

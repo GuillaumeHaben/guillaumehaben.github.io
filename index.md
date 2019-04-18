@@ -4,7 +4,7 @@ layout: home
 # About me
 
 Hi, my name is Guillaume. I'm a 25-year-old French software engineer.
-You can download my last resume <a href="https://guillaumehaben.github.io/docs/guillaumehaben-resume-september-2018.pdf" target="_blank">here</a>.
+You can download my last resume <a href="https://guillaumehaben.github.io/docs/guillaumehaben-resume-march-2019.pdf" target="_blank">here</a>.
 {: style="text-align: justify;"}
 
 Since 2017, I have the wonderful opportunity to live the Amercian dream by working for the [National Institute of Standards and Technology](https://www.nist.gov/) in the Software Quality Group.

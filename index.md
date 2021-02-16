@@ -4,7 +4,6 @@ layout: home
 # About me
 
 Hi, my name is Guillaume. I'm a 27-year-old French software engineer.
-You can download my last resume <a href="https://guillaumehaben.github.io/docs/guillaumehaben-resume-march-2020.pdf" target="_blank">here</a>.
 {: style="text-align: justify;"}
 
 After 2 wonderful years spent in Maryland working for the [National Institute of Standards and Technology](https://www.nist.gov/) in the Software Quality Group, I decided to start my PhD in the <a href="https://wwwfr.uni.lu/snt/research/serval" target="_blank">Serval team</a> at the University of Luxembourg in partnership with <a href="https://www.paypal.com/" target="_blank">PayPal</a>'s headquarters in San Jose, CA. <br />There, I continue my research in the area of Software Quality and Assurance. My thesis is about <i>Machine Learning for Continuous Integration, Real Time Incident Detection and Root Cause Analysis</i>. 

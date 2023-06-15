@@ -64,6 +64,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
+  - jekyll-age
 
 # Exclude list
 include: [_pages]

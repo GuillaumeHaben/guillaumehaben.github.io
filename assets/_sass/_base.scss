@@ -32,7 +32,7 @@ body {
 }
 
 a {
-  color: $overlay-color;
+  color: $green;
   outline: none;
   text-decoration: none
 }
@@ -40,7 +40,8 @@ a {
 a:hover,
 a:active,
 a:focus {
-  color: $green
+  color: $green;
+  text-decoration: underline;
 }
 
 table {

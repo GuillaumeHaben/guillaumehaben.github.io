@@ -7,7 +7,7 @@ GEM
     faraday (0.11.0)
       multipart-post (>= 1.2, < 3)
     ffi (1.15)
-    ffi (1.15-x64-mingw32)
+    ffi (1.15.0-x64-mingw32)
     forwardable-extended (2.6.0)
     jekyll (3.4.0)
       addressable (~> 2.4)
@@ -20,6 +20,8 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
+    jekyll-age (0.1.6)
+      jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
     jekyll-gist (1.4.0)
@@ -58,9 +60,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
+  jekyll-age
   jekyll-feed
   jekyll-gist
   jekyll-sitemap
 
 BUNDLED WITH
-   1.14.3
+   1.17.2

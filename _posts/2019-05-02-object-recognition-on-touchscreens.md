@@ -94,5 +94,15 @@ This project was by far the most interesting project I had at school. Having the
 Here is the official video!
 
 <iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/QD7KIPxZl0M?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<br />
+
+## Edit: 2024
+
+I had the opportunity to visit a friend who is working at CERN in Geneva. There, we went to the visitor center and I really enjoyed the exhibition and small museum. I was as surprised as pleased to see that our invention was being used for an Air Hockey table!
 
 
+<figure>
+    <a href="/images/object-recognition-on-touchscreens/edit.jpeg"><img src="/images/object-recognition-on-touchscreens/edit.jpeg"></a>
+</figure>
+
+I learned that this was the product of another company. 8 years later we can still be proud of our job, especially because they didn't implemented object identification and orientation!

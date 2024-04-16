@@ -2,6 +2,13 @@
 layout: compress
 ---
 
+{% assign dateStart = site.birthdate | date: '%s' %}
+{% assign nowTimestamp = 'now' | date: '%s' %}
+
+{% assign diffSeconds = nowTimestamp | minus: dateStart %}
+{% assign age = diffSeconds | divided_by: 31557600 %}
+
+
 <!DOCTYPE html>
 <html>
 {% include head.html %}
@@ -34,7 +41,7 @@ layout: compress
     <div class="content">
       <div class="about-info" style="text-align: justify;">
         <h1 id="about-me">About me</h1>
-        <p>Hello, my name is Guillaume. I'm {% age '1993-11-14' %} years old. I graduated from <a href="https://telecomnancy.univ-lorraine.fr/" target="_blank">TELECOM Nancy</a>, University of Lorraine in 2017.</p>
+        <p>Hello, my name is Guillaume. I'm {{ age }} years old. I graduated from <a href="https://telecomnancy.univ-lorraine.fr/" target="_blank">TELECOM Nancy</a>, University of Lorraine in 2017.</p>
         <p>After 2 wonderful years spent in Maryland working at <a href="National Institute of Standards and Technology" target="_blank">NIST</a> in the Software Quality Group, I decided to jump on the PhD adventure in the <a href="https://wwwfr.uni.lu/snt/research/serval" target="_blank">Security, Reasonning and Validation (SerVal) team</a> at the University of Luxembourg in partnership with <a href="https://www.paypal.com/" target="_blank">PayPal</a>'s headquarters in San Jose, CA.</p>
         <p>Over more than 4 years, I continued my research in the area of Software Quality and Assurance. My thesis was about Machine Learning for Continuous Integration, Real Time Incident Detection and Root Cause Analysis. Have a look at my <a href="https://scholar.google.com/citations?user=Vh3_f_AAAAAJ" target="_blank"> Scholar</a> if you are more interested in my research outcomes!</p>
         <p>I love creating app from scratch, minimalist design and working late at night.</p>

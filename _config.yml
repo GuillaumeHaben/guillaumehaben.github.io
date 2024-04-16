@@ -1,6 +1,7 @@
 # Site
 title: Guillaume Haben
-description: Software Engineer, Doctoral Researcher <br />Luxembourg
+description: Research Scientist, Software Engineering
+birthdate: 753271380
 url: https://guillaumehaben.github.io
 logo: gh.png                                       # Site logo
 locale: en_US
@@ -64,7 +65,6 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-age
 
 # Exclude list
 include: [_pages]

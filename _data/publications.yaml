@@ -1,0 +1,56 @@
+- title: The Importance of Accounting for Execution Failures when Predicting Test Flakiness
+  conf: Automated Software Engineer
+  conf-short: ASE
+  year: 2024
+  authors: Guillaume HABEN, Sarre HABCHI, John MICCO, Mark HARMAN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
+  filename: ASE_2024_The_Importance_of_Accounting_for_Execution_Failures_when_Predicting_Test_Flakiness.pdf
+  presentation: 
+
+- title: Test Flakiness Prediction Techniques for Evolving Software Systems
+  conf: PhD Thesis
+  conf-short: UNI.LU
+  year: 2023
+  authors: Guillaume HABEN
+  filename: PhD_Thesis.pdf
+  presentation:
+
+- title: FlakyCat, Predicting Flaky Tests Categories Using Few-Shot Learning
+  conf: International Conference on Automation of Software Test
+  conf-short: AST
+  year: 2023
+  authors: Amal AKLI, Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Yves LE TRAON
+  filename: AST_2023_FlakyCat_Predicting_Flaky_Tests_Categories_using_Few-Shot_Learning.pdf
+  presentation:
+
+- title: SATE VI Report, Bug Injection and Collection
+  conf: NIST Special Publication
+  conf-short: NIST
+  year: 2023
+  authors: Aure DELAITRE, Paul E. BLACK, Damien CUPIF, Guillaume HABEN, Alex-Kevin LOEMBE, Vadim OKUN, Yann PRONO
+  filename: NIST.SP.500-341.pdf
+  presentation:
+
+- title: What Made this Test Flake? Pinpointing Classes Responsible for Test Flakiness
+  conf: International Conference on Software Maintenance and Evolution
+  conf-short: ICSME
+  year: 2022
+  authors: Sarra HABCHI, Guillaume HABEN, Jeongju SOHN, Adriano FRANCI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
+  filename: ICSME_2022_What_Made_This_Test_Flake_Pinpointing_Classes_Responsible_for_Test_Flakiness.pdf
+  presentation:
+
+- title: A Qualitative Survey on the Sources, Impact and Mitigation Strategies of Flaky Tests
+  conf: International Conference on Software Testing
+  conf-short: ICST
+  year: 2022
+  authors: Sarra HABCHI, Guillaume HABEN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
+  filename: ICST_2022_A_Qualitative_Study_on_the_Sources_Impacts_and_Mitigation_Strategies_of_Flaky_Tests.pdf
+  presentation:
+
+- title: A Replication Study on the Usage of Code Vocabulary to Predict Flaky Tests
+  conf: International Conference on Mining Software Repositories
+  conf-short: MSR
+  year: 2021
+  authors: Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
+  filename: MSR_2021_A_Replication_Study_on_the_Usability_of_Code_Vocabulary_in_Predicting_Flaky_Tests.pdf
+  presentation:
+

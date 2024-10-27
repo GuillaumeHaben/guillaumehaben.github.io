@@ -1,0 +1,48 @@
+---
+layout: compress
+---
+
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+  <body id="publications">
+
+    <div class="block-left">
+      <div class="content">
+        <a href="{{ site.url }}" class="logo"><img src="{{ site.url }}/images/{{ site.logo | replace: '.', '-small.' }}"></a>
+        <h1 class="section-title">{{ page.title}}<em>/</em>
+        </h1>
+      </div>
+    </div>
+
+    <div class="block-right">
+
+      <a href="{{ site.url }}"><span class="posts-link home-link">HOME</span></a>
+      <a href="{{ site.url }}/publications" title="publications"><span class="posts-link publications-link">PUBLICATIONS</span></a>
+      <a href="{{ site.url }}/blog" title="posts"><span class="posts-link">BLOG</span></a>
+  
+      <div class="content">
+        <ul class="posts-list">
+        {% for pub in site.data.publications %}
+          <li>
+            <span class="publication-title">{{ pub.title }}</span>
+            <br />
+            <cite>{{ pub.conf }} ({{ pub.conf-short}}) {{ pub.year }}<br />{{ pub.authors }}</cite>
+            <ul class="tags tags-publications">
+              {% if pub.filename %}
+                <li><a href="{{ site.url }}/papers/{{ pub.filename}}"><i class="fa fa-fw fa-newspaper-o" aria-hidden="true"></i> Paper</a></li>
+              {% endif %}
+              {% if pub.presentation %}
+              <li><a href="#"><i class="fa fa-fw fa-desktop" aria-hidden="true"></i> Presentation</a></li>
+              {% endif %}
+            </ul>
+          </li>
+          {% endfor %}
+        </ul>
+        <div class="publications-header">Preprints. For personal use only.</div>
+      </div>
+    </div>
+    {% include overlay.html %}
+    {% include scripts.html %}
+  </body>
+</html>

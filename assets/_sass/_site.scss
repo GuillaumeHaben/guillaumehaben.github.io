@@ -47,62 +47,6 @@ canvas {
   z-index: 0;
 }
 
-.projects-menu-icon {
-  position: absolute;
-  top: 30px;
-  right: 110px;
-  width: 15px;
-  height: 15px;
-  border: 2px solid $gray;
-  border-radius: 3px;
-  cursor: pointer;
-  z-index: 3;
-  &:before {
-    content: '';
-    position: absolute;
-    left: -19px;
-    top: -2px;
-    width: 15px;
-    height: 15px;
-    border: 2px solid $gray;
-    border-radius: 3px;
-  }
-  span {
-    position: absolute;
-    top: 15px;
-    right: -2px;
-    width: 15px;
-    height: 15px;
-    border: 2px solid $gray;
-    border-radius: 3px;
-    &:before {
-      content: '';
-      position: absolute;
-      left: -19px;
-      top: -2px;
-      width: 15px;
-      height: 15px;
-      border: 2px solid $gray;
-      border-radius: 3px;
-    }
-  }
-  &:hover {
-    border-color: $green;
-    &:before {
-      border-color: $green;
-    }
-    span {
-      border-color: $green;
-      &:before {
-        border-color: $green;
-      }
-    }
-  }
-  &.active {
-    position: fixed;
-  }
-}
-
 .posts-menu-icon {
   position: absolute;
   top: 30px;
@@ -140,20 +84,36 @@ canvas {
   }
 }
 
-.posts-link,
-.projects-link {
+.posts-link {
   position: absolute;
-  top: 93px;
-  font-size: 12px;
-  color: darken($white, 40);
+  top: 33px;
+  font-size: 16px;
+  // color: darken($white, 40);
+}
+
+.posts-link:hover{
+  text-decoration: underline;
 }
 
 .posts-link {
   right: 100px;
 }
 
-.projects-link {
-  right: 100px;
+.publications-link {
+  right: 170px;
+}
+
+.publications-header {
+  margin: 50px 0;
+  text-align: center;
+}
+
+.publication-title {
+  color: #84161e;
+}
+
+.home-link {
+  right: 300px;
 }
 
 .overlay {
@@ -462,6 +422,29 @@ canvas {
   }
 }
 
+#publications {
+  .block-right {
+    display: block;
+    .content {
+      height: auto;
+      display: block;
+      max-width: 800px;
+    }
+  }
+  .logo {
+    top: 20px;
+    left: 20px;
+    position: absolute;
+    img {
+      width: 50px;
+      height: auto;
+    }
+    &:after {
+      display: none;
+    }
+  }
+}
+
 .section-title {
   font-size: 5em;
   position: absolute;
@@ -530,6 +513,10 @@ canvas {
       color: $white;
     }
   }
+}
+
+.tags-publications {
+  padding-top: 5px;
 }
 
 .inner-post {

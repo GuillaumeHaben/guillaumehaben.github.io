@@ -737,6 +737,11 @@ canvas {
       }
     }
   }
+  .about-info {
+    h1 {
+      margin-top: 50px;
+    }
+  }
   .inner-post {
     h2 {
       font-size: 20px;
@@ -763,7 +768,7 @@ canvas {
     }
   }
   .section-title {
-    font-size: 80px;
+    font-size: 50px;
   }
   .projects-menu li {
     width: 100% !important;

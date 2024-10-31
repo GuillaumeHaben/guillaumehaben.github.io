@@ -13,7 +13,7 @@
   year: 2023
   authors: Guillaume HABEN
   filename: PhD_Thesis.pdf
-  presentation:
+  presentation: PHD.pdf
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:4OdMNJQxYRcJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Na3o:AFWwaeYAAAAAZyLLc3pUyyEUnT5yucVPiHja-NE&scisig=AFWwaeYAAAAAZyLLc3KAI2_9tm3aFfNUwJDm5Tw&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: FlakyCat, Predicting Flaky Tests Categories Using Few-Shot Learning
@@ -31,7 +31,7 @@
   year: 2023
   authors: Aure DELAITRE, Paul E. BLACK, Damien CUPIF, Guillaume HABEN, Alex-Kevin LOEMBE, Vadim OKUN, Yann PRONO
   filename: NIST.SP.500-341.pdf
-  presentation:
+  presentation: SATE.pdf
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:fkYamDrUrM8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Nt7Q:AFWwaeYAAAAAZyLLr7Tr3ya9iGXic_c7WMYr7-4&scisig=AFWwaeYAAAAAZyLLr2CsvM-CH_yU-ZoQmhUUBcQ&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: What Made this Test Flake? Pinpointing Classes Responsible for Test Flakiness

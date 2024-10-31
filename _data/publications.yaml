@@ -4,7 +4,8 @@
   year: 2024
   authors: Guillaume HABEN, Sarre HABCHI, John MICCO, Mark HARMAN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ASE_2024_The_Importance_of_Accounting_for_Execution_Failures_when_Predicting_Test_Flakiness.pdf
-  presentation: 
+  presentation: ASE_2024.pdf
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:DrBsTT5X_l8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N9n8:AFWwaeYAAAAAZyLL7n8Urmut9_kp_7aMFjxC0MU&scisig=AFWwaeYAAAAAZyLL7s8mkZWQf5eXjUbPPZLJRHc&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: Test Flakiness Prediction Techniques for Evolving Software Systems
   conf: PhD Thesis
@@ -13,6 +14,7 @@
   authors: Guillaume HABEN
   filename: PhD_Thesis.pdf
   presentation:
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:4OdMNJQxYRcJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Na3o:AFWwaeYAAAAAZyLLc3pUyyEUnT5yucVPiHja-NE&scisig=AFWwaeYAAAAAZyLLc3KAI2_9tm3aFfNUwJDm5Tw&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: FlakyCat, Predicting Flaky Tests Categories Using Few-Shot Learning
   conf: International Conference on Automation of Software Test
@@ -21,6 +23,7 @@
   authors: Amal AKLI, Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Yves LE TRAON
   filename: AST_2023_FlakyCat_Predicting_Flaky_Tests_Categories_using_Few-Shot_Learning.pdf
   presentation:
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:mYI0swVrnlgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Njlg:AFWwaeYAAAAAZyLLllj8T01EBseXjdFe-irVepU&scisig=AFWwaeYAAAAAZyLLlhL5byi-c2xZwJu2bpRJ4lk&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: SATE VI Report, Bug Injection and Collection
   conf: NIST Special Publication
@@ -29,6 +32,7 @@
   authors: Aure DELAITRE, Paul E. BLACK, Damien CUPIF, Guillaume HABEN, Alex-Kevin LOEMBE, Vadim OKUN, Yann PRONO
   filename: NIST.SP.500-341.pdf
   presentation:
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:fkYamDrUrM8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Nt7Q:AFWwaeYAAAAAZyLLr7Tr3ya9iGXic_c7WMYr7-4&scisig=AFWwaeYAAAAAZyLLr2CsvM-CH_yU-ZoQmhUUBcQ&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: What Made this Test Flake? Pinpointing Classes Responsible for Test Flakiness
   conf: International Conference on Software Maintenance and Evolution
@@ -36,7 +40,8 @@
   year: 2022
   authors: Sarra HABCHI, Guillaume HABEN, Jeongju SOHN, Adriano FRANCI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ICSME_2022_What_Made_This_Test_Flake_Pinpointing_Classes_Responsible_for_Test_Flakiness.pdf
-  presentation:
+  presentation: ICSME_2022.pdf
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:eRJIUim68esJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43NQjw:AFWwaeYAAAAAZyLLWjw_UtiVqC_UZ_rsKJa6-DI&scisig=AFWwaeYAAAAAZyLLWqkLQiSKNAOUYz5qktcZW7k&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: A Qualitative Survey on the Sources, Impact and Mitigation Strategies of Flaky Tests
   conf: International Conference on Software Testing
@@ -44,7 +49,8 @@
   year: 2022
   authors: Sarra HABCHI, Guillaume HABEN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ICST_2022_A_Qualitative_Study_on_the_Sources_Impacts_and_Mitigation_Strategies_of_Flaky_Tests.pdf
-  presentation:
+  presentation: ICST_2022.pdf
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:c7JebMMKeNYJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43NnVY:AFWwaeYAAAAAZyLLhVaotbxhjrhUVH5VrdZReIE&scisig=AFWwaeYAAAAAZyLLhQO9DnDI-2jS8PGqE7RGZfM&scisf=4&ct=citation&cd=-1&hl=en
 
 - title: A Replication Study on the Usage of Code Vocabulary to Predict Flaky Tests
   conf: International Conference on Mining Software Repositories
@@ -52,5 +58,6 @@
   year: 2021
   authors: Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: MSR_2021_A_Replication_Study_on_the_Usability_of_Code_Vocabulary_in_Predicting_Flaky_Tests.pdf
-  presentation:
+  presentation: MSR_2021.pdf
+  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:0lhRZVlZLjgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N2aA:AFWwaeYAAAAAZyLLwaDZfvjxewvMMNgvM_2Qd_A&scisig=AFWwaeYAAAAAZyLLwXhfBhMrYxlHXh2VUT6z0m0&scisf=4&ct=citation&cd=-1&hl=en
 

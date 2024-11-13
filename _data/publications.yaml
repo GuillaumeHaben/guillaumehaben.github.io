@@ -6,6 +6,7 @@
   filename: ASE_2024_The_Importance_of_Accounting_for_Execution_Failures_when_Predicting_Test_Flakiness.pdf
   presentation: ASE_2024.pdf
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:DrBsTT5X_l8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N9n8:AFWwaeYAAAAAZyLL7n8Urmut9_kp_7aMFjxC0MU&scisig=AFWwaeYAAAAAZyLL7s8mkZWQf5eXjUbPPZLJRHc&scisf=4&ct=citation&cd=-1&hl=en
+  github: https://github.com/serval-uni-lu/Importance-of-Discerning-Flaky-from-Fault-triggering-Test-Failures
 
 - title: Test Flakiness Prediction Techniques for Evolving Software Systems
   conf: PhD Thesis
@@ -24,6 +25,7 @@
   filename: AST_2023_FlakyCat_Predicting_Flaky_Tests_Categories_using_Few-Shot_Learning.pdf
   presentation:
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:mYI0swVrnlgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Njlg:AFWwaeYAAAAAZyLLllj8T01EBseXjdFe-irVepU&scisig=AFWwaeYAAAAAZyLLlhL5byi-c2xZwJu2bpRJ4lk&scisf=4&ct=citation&cd=-1&hl=en
+  github: https://github.com/serval-uni-lu/FlakyCat
 
 - title: SATE VI Report, Bug Injection and Collection
   conf: NIST Special Publication
@@ -42,6 +44,7 @@
   filename: ICSME_2022_What_Made_This_Test_Flake_Pinpointing_Classes_Responsible_for_Test_Flakiness.pdf
   presentation: ICSME_2022.pdf
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:eRJIUim68esJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43NQjw:AFWwaeYAAAAAZyLLWjw_UtiVqC_UZ_rsKJa6-DI&scisig=AFWwaeYAAAAAZyLLWqkLQiSKNAOUYz5qktcZW7k&scisf=4&ct=citation&cd=-1&hl=en
+  github: https://github.com/serval-uni-lu/sherlock.replication
 
 - title: A Qualitative Survey on the Sources, Impact and Mitigation Strategies of Flaky Tests
   conf: International Conference on Software Testing
@@ -60,4 +63,4 @@
   filename: MSR_2021_A_Replication_Study_on_the_Usability_of_Code_Vocabulary_in_Predicting_Flaky_Tests.pdf
   presentation: MSR_2021.pdf
   citation: https://scholar.googleusercontent.com/scholar.bib?q=info:0lhRZVlZLjgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N2aA:AFWwaeYAAAAAZyLLwaDZfvjxewvMMNgvM_2Qd_A&scisig=AFWwaeYAAAAAZyLLwXhfBhMrYxlHXh2VUT6z0m0&scisf=4&ct=citation&cd=-1&hl=en
-
+  github: https://github.com/serval-uni-lu/FlakyVocabularyReplication

@@ -32,11 +32,14 @@ layout: compress
               {% if pub.filename %}
                 <li><a href="{{ site.url }}/papers/{{ pub.filename}}"><i class="fa fa-fw fa-newspaper-o" aria-hidden="true"></i> Paper</a></li>
               {% endif %}
+              {% if pub.citation %}
+              <li><a target="_blank" href="{{ pub.citation }}"><i class="fa fa-fw fa-quote-right" aria-hidden="true"></i> Cite</a></li>
+              {% endif %}
               {% if pub.presentation %}
               <li><a href="{{ site.url }}/presentations/{{ pub.presentation}}"><i class="fa fa-fw fa-desktop" aria-hidden="true"></i> Presentation</a></li>
               {% endif %}
-              {% if pub.citation %}
-              <li><a target="_blank" href="{{ pub.citation }}"><i class="fa fa-fw fa-quote-right" aria-hidden="true"></i> Cite</a></li>
+              {% if pub.github %}
+              <li><a target="_blank" href="{{ pub.github }}"><i class="fa fa-fw fa-github" aria-hidden="true"></i> Repository</a></li>
               {% endif %}
             </ul>
           </li>

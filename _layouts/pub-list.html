@@ -5,7 +5,8 @@ layout: compress
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-  <body id="publications">
+
+<body id="publications">
 
     <div class="block-left">
       <div class="content">
@@ -27,13 +28,17 @@ layout: compress
           <li>
             <span class="publication-title">{{ pub.title }}</span>
             <br />
-            <cite>{{ pub.conf }} ({{ pub.conf-short}}) {{ pub.year }}<br />{{ pub.authors }}</cite>
+            <p>{{ pub.authors }}, <em>{{ pub.conf }}</em> ({{ pub.conf-short}}, {{ pub.year }})</p>
             <ul class="tags tags-publications">
               {% if pub.filename %}
                 <li><a href="{{ site.url }}/papers/{{ pub.filename}}"><i class="fa fa-fw fa-newspaper-o" aria-hidden="true"></i> Paper</a></li>
               {% endif %}
               {% if pub.citation %}
-              <li><a target="_blank" href="{{ pub.citation }}"><i class="fa fa-fw fa-quote-right" aria-hidden="true"></i> Cite</a></li>
+              <div id="popup-content-{{ pub.conf-short }}-{{ pub.year }}" class="white-popup mfp-hide">
+                <h2>Cite this work</h2>
+                <p>{{ pub.citation }}</p>
+              </div>
+              <li><a href="#popup-content-{{ pub.conf-short }}-{{ pub.year }}" class="popup-link"><i class="fa fa-fw fa-quote-right" aria-hidden="true"></i> Cite</a></li>
               {% endif %}
               {% if pub.presentation %}
               <li><a href="{{ site.url }}/presentations/{{ pub.presentation}}"><i class="fa fa-fw fa-desktop" aria-hidden="true"></i> Presentation</a></li>
@@ -48,7 +53,23 @@ layout: compress
         <div class="publications-header">Preprints. For personal use only.</div>
       </div>
     </div>
+    
     {% include overlay.html %}
     {% include scripts.html %}
+    <script>
+      $(function () {
+        $('.popup-link').magnificPopup({
+          type: 'inline',
+          preloader: false,
+          showCloseBtn: true,
+          closeOnBgClick: false,
+          closeBtnInside: true,
+        });
+        $(document).on('click', '.popup-modal-dismiss', function (e) {
+          e.preventDefault();
+          $.magnificPopup.close();
+        });
+      });
+    </script>
   </body>
 </html>

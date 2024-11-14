@@ -7,6 +7,13 @@
 }
 
 @font-face {
+  font-family: 'RedHatText';
+  src: url('../fonts/RedHatText-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
   font-family: 'LiberationMonoRegular';
   src: url('../fonts/liberation-mono-webfont.eot');
   src: url('../fonts/liberation-mono-webfont.eot?#iefix') format('embedded-opentype'), url('../fonts/liberation-mono-webfont.woff') format('woff'), url('../fonts/liberation-mono-webfont.ttf') format('truetype'), url('../fonts/liberation-mono-webfont.svg#LiberationMonoRegular') format('svg');

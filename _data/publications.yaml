@@ -5,17 +5,31 @@
   authors: Guillaume HABEN, Sarre HABCHI, John MICCO, Mark HARMAN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ASE_2024_The_Importance_of_Accounting_for_Execution_Failures_when_Predicting_Test_Flakiness.pdf
   presentation: ASE_2024.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:DrBsTT5X_l8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N9n8:AFWwaeYAAAAAZyLL7n8Urmut9_kp_7aMFjxC0MU&scisig=AFWwaeYAAAAAZyLL7s8mkZWQf5eXjUbPPZLJRHc&scisf=4&ct=citation&cd=-1&hl=en
+  citation:  >
+    <code>@inproceedings{haben2024importance,<br />
+    &emsp;title={The Importance of Accounting for Execution Failures when Predicting Test Flakiness},<br />
+    &emsp;author={Haben, Guillaume and Habchi, Sarra and Micco, John and Harman, Mark and Papadakis, Mike and Cordy, Maxime and Le Traon, Yves},<br />
+    &emsp;booktitle={Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering},<br />
+    &emsp;pages={1979--1989},<br />
+    &emsp;year={2024},<br />
+    &emsp;organization={ACM}<br />
+    }</code>
   github: https://github.com/serval-uni-lu/Importance-of-Discerning-Flaky-from-Fault-triggering-Test-Failures
 
 - title: Test Flakiness Prediction Techniques for Evolving Software Systems
   conf: PhD Thesis
-  conf-short: UNI.LU
+  conf-short: UniLu
   year: 2023
   authors: Guillaume HABEN
   filename: PhD_Thesis.pdf
   presentation: PHD.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:4OdMNJQxYRcJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Na3o:AFWwaeYAAAAAZyLLc3pUyyEUnT5yucVPiHja-NE&scisig=AFWwaeYAAAAAZyLLc3KAI2_9tm3aFfNUwJDm5Tw&scisf=4&ct=citation&cd=-1&hl=en
+  citation:  >
+    <code>@article{haben2023test,<br />
+    &emsp;title={Test Flakiness Prediction Techniques for Evolving Software Systems},<br />
+    &emsp;author={Haben, Guillaume},<br />
+    &emsp;year={2023},<br />
+    &emsp;publisher={University of Luxembourg, Luxembourg, Luxembourg}<br />
+    }</code>
 
 - title: FlakyCat, Predicting Flaky Tests Categories Using Few-Shot Learning
   conf: International Conference on Automation of Software Test
@@ -24,7 +38,15 @@
   authors: Amal AKLI, Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Yves LE TRAON
   filename: AST_2023_FlakyCat_Predicting_Flaky_Tests_Categories_using_Few-Shot_Learning.pdf
   presentation:
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:mYI0swVrnlgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Njlg:AFWwaeYAAAAAZyLLllj8T01EBseXjdFe-irVepU&scisig=AFWwaeYAAAAAZyLLlhL5byi-c2xZwJu2bpRJ4lk&scisf=4&ct=citation&cd=-1&hl=en
+  citation: >
+    <code>@inproceedings{akli2023flakycat,<br />
+    &emsp;title={FlakyCat: Predicting flaky tests categories using few-shot learning},<br />
+    &emsp;author={Akli, Amal and Haben, Guillaume and Habchi, Sarra and Papadakis, Mike and Le Traon, Yves},<br />
+    &emsp;booktitle={2023 IEEE/ACM International Conference on Automation of Software Test (AST)},<br />
+    &emsp;pages={140--151},<br />
+    &emsp;year={2023},<br />
+    &emsp;organization={IEEE}<br />
+    }</code>
   github: https://github.com/serval-uni-lu/FlakyCat
 
 - title: SATE VI Report, Bug Injection and Collection
@@ -34,7 +56,13 @@
   authors: Aure DELAITRE, Paul E. BLACK, Damien CUPIF, Guillaume HABEN, Alex-Kevin LOEMBE, Vadim OKUN, Yann PRONO
   filename: NIST.SP.500-341.pdf
   presentation: SATE.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:fkYamDrUrM8J:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43Nt7Q:AFWwaeYAAAAAZyLLr7Tr3ya9iGXic_c7WMYr7-4&scisig=AFWwaeYAAAAAZyLLr2CsvM-CH_yU-ZoQmhUUBcQ&scisf=4&ct=citation&cd=-1&hl=en
+  citation:  >
+    <code>@inproceedings{delaitre2023sate,<br />
+    &emsp;title={SATE VI Report: Bug Injection and Collection},<br />
+    &emsp;author={Delaitre, Aurelien and Black, Paul E and Cupif, Damien and Haben, Guillaume and Alex-Kevin, Loembe and Okun, Vadim and Prono, Yann},<br />
+    &emsp;year={2023},<br />
+    &emsp;publisher={National Institute of Standards and Technology}<br />
+    }</code>
 
 - title: What Made this Test Flake? Pinpointing Classes Responsible for Test Flakiness
   conf: International Conference on Software Maintenance and Evolution
@@ -43,7 +71,15 @@
   authors: Sarra HABCHI, Guillaume HABEN, Jeongju SOHN, Adriano FRANCI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ICSME_2022_What_Made_This_Test_Flake_Pinpointing_Classes_Responsible_for_Test_Flakiness.pdf
   presentation: ICSME_2022.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:eRJIUim68esJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43NQjw:AFWwaeYAAAAAZyLLWjw_UtiVqC_UZ_rsKJa6-DI&scisig=AFWwaeYAAAAAZyLLWqkLQiSKNAOUYz5qktcZW7k&scisf=4&ct=citation&cd=-1&hl=en
+  citation:  >
+    <code>@inproceedings{habchi2022sherlock,<br />
+    &emsp;title={What made this test flake? pinpointing classes responsible for test flakiness},<br />
+    &emsp;author={Habchi, Sarra and Haben, Guillaume and Sohn, Jeongju and Franci, Adriano and Papadakis, Mike and Cordy, Maxime and Le Traon, Yves},<br />
+    &emsp;booktitle={2022 IEEE International Conference on Software Maintenance and Evolution (ICSME)},<br />
+    &emsp;pages={352--363},<br />
+    &emsp;year={2022},<br />
+    &emsp;organization={IEEE}<br />
+    }</code>
   github: https://github.com/serval-uni-lu/sherlock.replication
 
 - title: A Qualitative Survey on the Sources, Impact and Mitigation Strategies of Flaky Tests
@@ -53,8 +89,16 @@
   authors: Sarra HABCHI, Guillaume HABEN, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: ICST_2022_A_Qualitative_Study_on_the_Sources_Impacts_and_Mitigation_Strategies_of_Flaky_Tests.pdf
   presentation: ICST_2022.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:c7JebMMKeNYJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43NnVY:AFWwaeYAAAAAZyLLhVaotbxhjrhUVH5VrdZReIE&scisig=AFWwaeYAAAAAZyLLhQO9DnDI-2jS8PGqE7RGZfM&scisf=4&ct=citation&cd=-1&hl=en
-
+  citation:  >
+    <code>@inproceedings{habchi2022qualitative,<br />
+    &emsp;title={A qualitative study on the sources, impacts, and mitigation strategies of flaky tests},<br />
+    &emsp;author={Habchi, Sarra and Haben, Guillaume and Papadakis, Mike and Cordy, Maxime and Le Traon, Yves},<br />
+    &emsp;booktitle={2022 IEEE Conference on Software Testing, Verification and Validation (ICST)},<br />
+    &emsp;pages={244--255},<br />
+    &emsp;year={2022},<br />
+    &emsp;organization={IEEE}<br />
+    }</code>
+  
 - title: A Replication Study on the Usage of Code Vocabulary to Predict Flaky Tests
   conf: International Conference on Mining Software Repositories
   conf-short: MSR
@@ -62,5 +106,13 @@
   authors: Guillaume HABEN, Sarra HABCHI, Mike PAPADAKIS, Maxime CORDY, Yves LE TRAON
   filename: MSR_2021_A_Replication_Study_on_the_Usability_of_Code_Vocabulary_in_Predicting_Flaky_Tests.pdf
   presentation: MSR_2021.pdf
-  citation: https://scholar.googleusercontent.com/scholar.bib?q=info:0lhRZVlZLjgJ:scholar.google.com/&output=citation&scisdr=ClG80HtCELDbk43N2aA:AFWwaeYAAAAAZyLLwaDZfvjxewvMMNgvM_2Qd_A&scisig=AFWwaeYAAAAAZyLLwXhfBhMrYxlHXh2VUT6z0m0&scisf=4&ct=citation&cd=-1&hl=en
+  citation:  >
+    <code>@inproceedings{haben2021replication,<br />
+    &emsp;title={A replication study on the usability of code vocabulary in predicting flaky tests},<br />
+    &emsp;author={Haben, Guillaume and Habchi, Sarra and Papadakis, Mike and Cordy, Maxime and Le Traon, Yves},<br />
+    &emsp;booktitle={2021 IEEE/ACM 18th International Conference on Mining Software Repositories (MSR)},<br />
+    &emsp;pages={219--229},<br />
+    &emsp;year={2021},<br />
+    &emsp;organization={IEEE}<br />
+    }</code>
   github: https://github.com/serval-uni-lu/FlakyVocabularyReplication

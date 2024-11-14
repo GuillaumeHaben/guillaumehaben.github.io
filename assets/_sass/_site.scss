@@ -110,6 +110,7 @@ canvas {
 
 .publication-title {
   color: #84161e;
+  font-size: 18px;
 }
 
 .home-link {
@@ -475,6 +476,9 @@ canvas {
       font-size: 30px;
       margin-bottom: 15px;
     }
+    em {
+      font-style: italic;
+    }
     p {
       color: darken($white, 40);
     }
@@ -497,6 +501,20 @@ canvas {
   .tags li > a {
     color: lighten($black, 28%);
   }
+}
+
+.white-popup {
+  position: relative;
+  background: #FFF;
+  padding: 20px;
+  width: auto;
+  max-width: max-content;
+  margin: 20px auto;
+}
+
+.white-popup h2 {
+  margin: 0 0 20px 0;
+  font-weight: bold;
 }
 
 .tags {

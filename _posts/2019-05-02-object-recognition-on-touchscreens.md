@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Object recognition on touchscreens"
+title:  "Object Recognition on Touchscreens"
 date:   2019-05-02
 excerpt: "During our third year at TELECOM Nancy, we had the opportunity to work on a real-life project for 6 months. I was very lucky to be assigned to one of the most innovative projects that were offered to us. Here is what we've done."
 image: images/object-recognition-on-touchscreens/logo-1.jpg

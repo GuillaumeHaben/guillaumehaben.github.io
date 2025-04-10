@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "My implication in the student life"
+title:  "My Implication in the Student Life"
 date:   2017-04-10
 excerpt: "By reading this post, you'll learn why I decided to get involved in the Student Union of TELECOM Nancy throughout the year 2016, how I managed the student's life at school and what I learned from this unique experience"
 image: images/my-implication-in-the-student-life/logo-1.jpg

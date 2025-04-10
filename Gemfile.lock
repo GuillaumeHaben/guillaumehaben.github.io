@@ -20,8 +20,6 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-age (0.1.6)
-      jekyll (>= 3.0, < 5.0)
     jekyll-feed (0.8.0)
       jekyll (~> 3.3)
     jekyll-gist (1.4.0)
@@ -60,7 +58,6 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll
-  jekyll-age
   jekyll-feed
   jekyll-gist
   jekyll-sitemap

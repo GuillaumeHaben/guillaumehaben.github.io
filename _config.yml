@@ -19,7 +19,7 @@ disqus:
   shortname: guillaumehaben
 
 # Jekyll
-permalink:          /:title/
+permalink:          /blog/:title/
 markdown:           kramdown
 highlighter:        rouge
 kramdown:

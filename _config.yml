@@ -18,6 +18,10 @@ comments: disqus
 disqus:
   shortname: guillaumehaben
 
+collections:
+  post_old:
+    output: true
+
 # Jekyll
 permalink:          /blog/:title/
 markdown:           kramdown

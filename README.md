@@ -20,3 +20,12 @@ My website.
 - [jQuery](http://jquery.com/)
 - [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
 - [FitVids.JS](http://fitvidsjs.com/)
+
+
+### Instagram post
+#posts .logo top 90px, left 50px
+.block-left 0.4 / 0.3
+Chrome Dev 594x1056
+
+### Displaying old posts
+In post-list.html:26, change site.posts in site.post_old

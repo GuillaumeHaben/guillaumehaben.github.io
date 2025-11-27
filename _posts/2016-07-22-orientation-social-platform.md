@@ -48,7 +48,7 @@ It was a first release but everyone was using it. During classes, at lunch, afte
 <figure class="third">
     <a href="/images/orientation-social-platform/admin.png"><img src="/images/orientation-social-platform/admin.png"></a>
     <a href="/images/orientation-social-platform/parrainage.png"><img src="/images/orientation-social-platform/parrainage.png"></a>
-    <a href="/images/orientation-social-platform/actu.png"><img src="/images/orientation-social-platform/actu.png"></a>
+    <a href="/images/orientation-social-platform/family.png"><img src="/images/orientation-social-platform/family.png"></a>
 </figure>
 <figure class="third">
     <a href="/images/orientation-social-platform/classement.png"><img src="/images/orientation-social-platform/classement.png"></a>
